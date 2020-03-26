@@ -13,7 +13,7 @@ public class PlagiarismDetectorTest {
 
     @Test
     public void test() {
-        String directory = "../../data";
+        String directory = "./data";
         Map<String, Integer> map = null;
 
         // run the method
